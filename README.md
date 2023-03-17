@@ -1,1 +1,1 @@
-# solo_noble_game_with_java
+# Unfinished solo noble game project using java with linked lists
